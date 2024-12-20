@@ -23,7 +23,7 @@
 
 ---
 
-## How to Use? (Guide for API Keys)
+## How to Use? 
 
 1. **Creating Keys File**:
    - Create a file named `keys.txt` in the project directory.
